@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.1575c94d.css",
-    "main.js": "/static/js/main.fa07d39b.js",
-    "static/js/787.55c86885.chunk.js": "/static/js/787.55c86885.chunk.js",
-    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/Mrigank_Khandelwal.pdf": "/static/media/Mrigank_Khandelwal.48ee3d4dbcd8b909c847.pdf",
-    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/Mrigank_picture.jpeg": "/static/media/Mrigank_picture.b5bdca0ba3e7fe629cbe.jpeg",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/index.html",
-    "main.1575c94d.css.map": "/static/css/main.1575c94d.css.map",
-    "main.fa07d39b.js.map": "/static/js/main.fa07d39b.js.map",
-    "787.55c86885.chunk.js.map": "/static/js/787.55c86885.chunk.js.map"
+    "main.css": "/About-Me/static/css/main.b9c6028b.css",
+    "main.js": "/About-Me/static/js/main.1adef748.js",
+    "static/js/787.55c86885.chunk.js": "/About-Me/static/js/787.55c86885.chunk.js",
+    "static/media/leaf.png": "/About-Me/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/About-Me/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/About-Me/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/About-Me/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/Mrigank_Khandelwal.pdf": "/About-Me/static/media/Mrigank_Khandelwal.48ee3d4dbcd8b909c847.pdf",
+    "static/media/blog.png": "/About-Me/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/About-Me/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/About-Me/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/About-Me/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Mrigank_picture.jpeg": "/About-Me/static/media/Mrigank_picture.b5bdca0ba3e7fe629cbe.jpeg",
+    "static/media/home-bg.jpg": "/About-Me/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/About-Me/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/About-Me/index.html",
+    "main.b9c6028b.css.map": "/About-Me/static/css/main.b9c6028b.css.map",
+    "main.1adef748.js.map": "/About-Me/static/js/main.1adef748.js.map",
+    "787.55c86885.chunk.js.map": "/About-Me/static/js/787.55c86885.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1575c94d.css",
-    "static/js/main.fa07d39b.js"
+    "static/css/main.b9c6028b.css",
+    "static/js/main.1adef748.js"
   ]
 }
