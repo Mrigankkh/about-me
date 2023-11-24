@@ -4,6 +4,8 @@ import myImg from "../../Assets/Mrigank_picture.jpeg";
 import Tilt from "react-parallax-tilt";
 import Github from "./Github";
 import Techstack from "./Techstack";
+import Experience from "./experience";
+import experiences from "../../constants/experience";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
 import {
@@ -76,18 +78,22 @@ UNDERSTAND."</i>
           <footer className="blockquote-footer">Martin Fowler</footer>
         </blockquote>
         <Container fluid className="about-section-2">
+        <Experience/>
+        </Container>
+    
+        <Container fluid className="about-section-2">
        <h1 className="project-heading">
           Professional <strong className="purple">Skillset </strong>
         </h1>
 
         <Techstack />
 
-        <h1 className="project-heading">
+        {/* <h1 className="project-heading">
           <strong className="purple">Tools</strong> I use
-        </h1>
-        <Toolstack />
+        </h1> */}
+        {/* <Toolstack /> */}
 
-        <Github />
+        {/* <Github /> */}
        </Container>
         <Row>
           <Col md={12} className="home-about-social">
