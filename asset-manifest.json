@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1575c94d.css",
-    "main.js": "/static/js/main.fa07d39b.js",
+    "main.css": "/static/css/main.7465e520.css",
+    "main.js": "/static/js/main.83b7bd6f.js",
     "static/js/787.55c86885.chunk.js": "/static/js/787.55c86885.chunk.js",
     "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
@@ -14,14 +14,16 @@
     "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/Mrigank_picture.jpeg": "/static/media/Mrigank_picture.b5bdca0ba3e7fe629cbe.jpeg",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/sabre-logo.png": "/static/media/sabre-logo.707cd2fdeab146f45af6.png",
+    "static/media/neu-logo.png": "/static/media/neu-logo.1d9809a8d1c0af84961e.png",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.1575c94d.css.map": "/static/css/main.1575c94d.css.map",
-    "main.fa07d39b.js.map": "/static/js/main.fa07d39b.js.map",
+    "main.7465e520.css.map": "/static/css/main.7465e520.css.map",
+    "main.83b7bd6f.js.map": "/static/js/main.83b7bd6f.js.map",
     "787.55c86885.chunk.js.map": "/static/js/787.55c86885.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1575c94d.css",
-    "static/js/main.fa07d39b.js"
+    "static/css/main.7465e520.css",
+    "static/js/main.83b7bd6f.js"
   ]
 }
