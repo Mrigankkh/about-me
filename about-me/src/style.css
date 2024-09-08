@@ -33,7 +33,7 @@ button:focus {
   height: 100%;
   z-index: 999999;
   background-color: #0c0513;
-  background-image: url(./Assets/pre.svg);
+  background-image: url(./assets/pre.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -257,7 +257,7 @@ button:focus {
 .home-section {
   position: relative;
   z-index: -1;
-  background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
+  background-image: var(--image-gradient), url(./assets/home-bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
@@ -451,6 +451,22 @@ button:focus {
   background-image: var(--section-background-color) !important;
 }
 
+
+.travel-section {
+  position: relative !important;
+  padding-top: 150px !important;
+  padding-bottom: 30px !important;
+  
+}
+
+.travel-map
+{
+  padding-top: 50px !important;
+  padding-bottom: 50px !important;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+  height: auto !important;
+}
 .project-card {
   padding-top: 50px !important;
   padding-bottom: 50px !important;
@@ -459,6 +475,15 @@ button:focus {
   height: auto !important;
 }
 
+
+.travel-map-map{
+  /* box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important; */
+  color: white !important;
+  background-color: transparent !important;
+  opacity: 0.9 !important;
+  transition: all 0.5s ease 0s !important;
+
+}
 .project-card-view {
   box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
   color: white !important;
@@ -537,7 +562,12 @@ button:focus {
   font-weight: 500 !important;
   padding-top: 10px !important;
 }
-
+.travel-heading {
+  color: white !important;
+  font-size: 2.3em !important;
+  font-weight: 500 !important;
+  padding-top: 10px !important;
+}
 /* --------- */
 /* About */
 /* --------- */

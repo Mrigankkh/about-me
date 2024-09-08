@@ -1,8 +1,19 @@
-import sabre from "../Assets/sabre-logo.png"
-import dell from "../Assets/dell-logo.jpeg"
-import neu from "../Assets/neu-logo.png"
-import msrit from "../Assets/msrit-logo.jpeg"
+import sabre from "../assets/sabre-logo.png"
+import dell from "../assets/dell-logo.jpeg"
+import neu from "../assets/neu-logo.png"
+import msrit from "../assets/msrit-logo.jpeg"
 const experiences = [
+  {
+    title: "AI Software Engineer Co-op",
+    company_name: "Dell Technologies",
+    icon: dell ,
+    iconBg: "#383E56",
+    date: "July 2024 - Present",
+    points: [
+      "I work on developing cross functional Generative AI solutions using Open Source GenAI frameworks and models.",
+      
+    ],
+  },
     {
         title: "M.S. Computer Science",
         company_name: "Northeastern University",
@@ -10,20 +21,17 @@ const experiences = [
         iconBg: "#383E56",
         date: "Sept 2023 - Present",
         points: [
-          "A graduate student at Northeastern University, Boston. Some of my courseworks here include Programming Design and Paradigms, Artificial Intelligence",
+          "Courseworks inlcude Programming Design and Paradigms, Artificial Intelligence,  Mobile Application Development, Algorithms.",
           
         ],
       },
     {
       title: "Software Development Intern",
-      company_name: "Sabre",
+      company_name: "Sabre Corporation",
       icon: sabre ,
       iconBg: "#383E56",
       date: "Jan 2023 - July 2023",
-      points: [ "Programmed product features, bug fixes and security enhancements in C# and OracleDB on the Radixx Res product in the Radixx vertical.",
-         "Designed and developed a dashboard in React, Express, NodeJS, JavaScript and OracleDB to provide enhanced accessibility to sales data aimed at reducing and resolving sales disputes.",
-         "Awarded 2nd place in Intern Hackathon organized by the company."
-    
+      points: [ " Developed products and bug fixes for Radixx Res, an airline reservation system for low cost carriers, using C# and OracleDB.",    
       ],
     },
     {

@@ -26,21 +26,33 @@ function Home2() {
               ABOUT <span className="purple"> ME </span> 
             </h1>
             <p className="home-about-body">
-              I am a Computer Science graduate student at Northeastern University. I am currently working at Dell Technologies as an <b className="purple">AI Software Engineer Co-op</b>.
+              I am an aspiring <b className="purple"> Software Developer</b>,  currently pursuing my Masters degree in Computer Science at Northeastern University.
               <br />
-              <br /> I am a full-stack developer. I find <b className="purple">Generative AI</b>  really intriguing and I work closely with Open-Source Generative AI models and frameworks.
-              <br />
-              <br />
-              Throughout my academic and professional journey, I have worked on various projects and have gained experience in different domains like  <b className="purple"> Web & Mobile Development, Machine Learning & AI, and Cloud Computing</b>. <br/><br/> <b className="purple">Fun fact: </b>I did an exploratory research on Quantum Computing for my undergrauate project!
+              <br />Having acquired a strong foundation in algorithms and data structures, my time at Northeastern has been dedicated to honing practical coding skills and solving real world problems.
               <br />
               <br />
+           
               I thrive on collaborative problem-solving and embrace the challenges of real-world software engineering. Whether it’s hacking away at a group project or brainstorming the next disruptive tech idea, I’m always geared up for a coding adventure!
-        
+              {/* Whenever possible, I also apply my passion for developing products
+              with <b className="purple">Node.js</b> and
+              <i>
+                <b className="purple">
+                  {" "}
+                  Modern Javascript Library and Frameworks
+                </b>
+              </i>
+              &nbsp; like
+              <i>
+                <b className="purple"> React.js and Next.js</b>
+              </i> */}
                 <br />
               <br />
+                I've also explored the realm of&nbsp;
+              <i>
+                <b className="purple">Machine Learning and AI</b>. Some of my projects and works can be found on my github page.
                 {" "}
           
-             
+              </i>
             
             </p>
           </Col>
@@ -67,12 +79,12 @@ UNDERSTAND."</i>
         <Experience/>
         </Container>
     
-        {/* <Container fluid className="about-section-2">
+        <Container fluid className="about-section-2">
        <h1 className="project-heading">
           Professional <strong className="purple">Skillset </strong>
         </h1>
 
-        <Techstack /> */}
+        <Techstack />
 
         {/* <h1 className="project-heading">
           <strong className="purple">Tools</strong> I use
@@ -80,7 +92,7 @@ UNDERSTAND."</i>
         {/* <Toolstack /> */}
 
         {/* <Github /> */}
-       {/* </Container> */}
+       </Container>
         <Row>
           <Col md={12} className="home-about-social">
             <h1>Lets Talk.</h1>

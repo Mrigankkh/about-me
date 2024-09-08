@@ -9,8 +9,8 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
 
-            I am currently living in <span className="purple"> Boston, Massachusetts </span>
-            where I am pursuing my Masters Degree in Computer Science from Northeastern University.
+            I live in <span className="purple"> Boston, Massachusetts </span>
+            where I am pursuing my Masters Degree in Computer Science at Northeastern University.
             <br />
     
             <br />

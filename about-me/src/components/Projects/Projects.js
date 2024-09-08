@@ -2,12 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import editor from "../../assets/Projects/codeEditor.png";
+import IME from "../../assets/Projects/IME.png";
+import ASL from "../../assets/Projects/ASL.png";
+
 
 function Projects() {
   return (
@@ -23,22 +21,22 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={IME}
               isBlog={false}
               title="IME: Image Manipulation and Enhancement"
-              description="A Desktop image processing application in Java with a text- based and a GUI interface. This project is a part of my graduate Programming Design and Paradigms course and its focus lies in the design of the application. Various design approaches such as Command Design Pattern are used. As per the Academic Integrity Policy of the University, the source code can be made public only upon request."
-              ghLink="https://github.com/Mrigankkh/Image Manipulation and Enhancement"
+              description="A Desktop image processing application in Java with a text- based and a GUI interface.  As per the Academic Integrity Policy of the University, the source code can be made public only upon request. The JAR file is pubically available."
+              ghLink="https://github.com/Mrigankkh/Image-Manipulation-and-Enhancement"
            //   demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={ASL}
               isBlog={false}
               title="ASL-2-Sentence"
-              description="A ML application that takes live video feed of American Sign languages and classifies them into letters using CNNs and takes the words formed to predict sentences using transformers.    (WIP)"
-              ghLink="https://github.com/Mrigankkh/ASL-2-Sentence"
+              description="This project aims to integrate Computer Vision and Natural Language Processing to classify images of ASL hand signs to their respective characters and to generate meaningful sentences from the keywords signed.  "
+              ghLink="https://github.com/Mrigankkh/ASL-2-Text"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
@@ -54,16 +52,16 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={editor}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="UniSphere"
+              description="An android application for a social media platform for univerity students to connect and share. Developed using Java with Firebase. "
+              ghLink="https://github.com/Mrigankkh"
+              // demoLink="https://plant49-ai.herokuapp.com/"
             />
-          </Col> */}
+          </Col>
 
           {/* <Col md={4} className="project-card">
             <ProjectCard
@@ -71,7 +69,7 @@ function Projects() {
               isBlog={false}
               title="Ai For Social Good"
               description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              ghLink="https://github.com/"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>

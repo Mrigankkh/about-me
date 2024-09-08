@@ -13,7 +13,10 @@ import {
   AiOutlineUser,
 } from "react-icons/ai";
 
-import { CgFileDocument } from "react-icons/cg";
+import { CgFileDocument, 
+CgAirplane
+
+ } from "react-icons/cg";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -88,6 +91,15 @@ function NavBar() {
                 onClick={() => updateExpanded(false)}
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
+              </Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/travel"
+                onClick={() => updateExpanded(false)}
+              >
+                <CgAirplane style={{ marginBottom: "2px" }} /> Travel
               </Nav.Link>
             </Nav.Item>
 
