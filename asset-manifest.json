@@ -1,8 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.7465e520.css",
-    "main.js": "/static/js/main.aa2220e3.js",
+    "main.css": "/static/css/main.5d883900.css",
+    "main.js": "/static/js/main.488a9ad2.js",
     "static/js/787.55c86885.chunk.js": "/static/js/787.55c86885.chunk.js",
+    "static/media/IN_DL_HumayunTomb.jpg": "/static/media/IN_DL_HumayunTomb.0744ff1230476a7ba0b1.jpg",
+    "static/media/IN_KL_Wayanad_Lake.jpg": "/static/media/IN_KL_Wayanad_Lake.b81b1896857a09b0dd1d.jpg",
+    "static/media/IN_HP_Shimla_gh.jpg": "/static/media/IN_HP_Shimla_gh.cb017d15751e64b58389.jpg",
+    "static/media/AE_Dubai_BurjKhalifaView.jpg": "/static/media/AE_Dubai_BurjKhalifaView.7fc8d353f0ca5de528ae.jpg",
+    "static/media/USA_NY_ManhattanSkyline.jpeg": "/static/media/USA_NY_ManhattanSkyline.a9b4fc4064bdee293d83.jpeg",
+    "static/media/NP_MTEVEREST.jpeg": "/static/media/NP_MTEVEREST.29d9702fe340bef49bc6.jpeg",
+    "static/media/AE_Dubai_Dunes.jpg": "/static/media/AE_Dubai_Dunes.9f3309b0ea93702397ac.jpg",
+    "static/media/US_MA_Cambridge_CharlesRiver.jpeg": "/static/media/US_MA_Cambridge_CharlesRiver.7d86c3b608413cf51473.jpeg",
+    "static/media/US_NY_NYC_TimesSquare.jpeg": "/static/media/US_NY_NYC_TimesSquare.7ce23966f8219569928e.jpeg",
+    "static/media/AE_AbuDabhi_GrandMosque.jpg": "/static/media/AE_AbuDabhi_GrandMosque.d8c794f7e6f35be07b6a.jpg",
     "static/media/IME.png": "/static/media/IME.db2184a4019e00a74349.png",
     "static/media/ASL.png": "/static/media/ASL.d34bc51872b12c762cc9.png",
     "static/media/Mrigank_Khandelwal.pdf": "/static/media/Mrigank_Khandelwal.37a1d53cec2f5a3901d9.pdf",
@@ -15,12 +25,12 @@
     "static/media/neu-logo.png": "/static/media/neu-logo.1d9809a8d1c0af84961e.png",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.7465e520.css.map": "/static/css/main.7465e520.css.map",
-    "main.aa2220e3.js.map": "/static/js/main.aa2220e3.js.map",
+    "main.5d883900.css.map": "/static/css/main.5d883900.css.map",
+    "main.488a9ad2.js.map": "/static/js/main.488a9ad2.js.map",
     "787.55c86885.chunk.js.map": "/static/js/787.55c86885.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7465e520.css",
-    "static/js/main.aa2220e3.js"
+    "static/css/main.5d883900.css",
+    "static/js/main.488a9ad2.js"
   ]
 }
