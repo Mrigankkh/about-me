@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d883900.css",
-    "main.js": "/static/js/main.488a9ad2.js",
+    "main.css": "/static/css/main.8ee33db1.css",
+    "main.js": "/static/js/main.5fa42a77.js",
     "static/js/787.55c86885.chunk.js": "/static/js/787.55c86885.chunk.js",
     "static/media/IN_DL_HumayunTomb.jpg": "/static/media/IN_DL_HumayunTomb.0744ff1230476a7ba0b1.jpg",
     "static/media/IN_KL_Wayanad_Lake.jpg": "/static/media/IN_KL_Wayanad_Lake.b81b1896857a09b0dd1d.jpg",
+    "static/media/AILoading.gif": "/static/media/AILoading.89a78dd2875baa68745b.gif",
     "static/media/IN_HP_Shimla_gh.jpg": "/static/media/IN_HP_Shimla_gh.cb017d15751e64b58389.jpg",
     "static/media/AE_Dubai_BurjKhalifaView.jpg": "/static/media/AE_Dubai_BurjKhalifaView.7fc8d353f0ca5de528ae.jpg",
     "static/media/USA_NY_ManhattanSkyline.jpeg": "/static/media/USA_NY_ManhattanSkyline.a9b4fc4064bdee293d83.jpeg",
@@ -22,15 +23,16 @@
     "static/media/Mrigank_picture.jpeg": "/static/media/Mrigank_picture.b5bdca0ba3e7fe629cbe.jpeg",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/sabre-logo.png": "/static/media/sabre-logo.707cd2fdeab146f45af6.png",
+    "static/media/ai.ico": "/static/media/ai.4ad2c7d27e1960ce6aff.ico",
     "static/media/neu-logo.png": "/static/media/neu-logo.1d9809a8d1c0af84961e.png",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.5d883900.css.map": "/static/css/main.5d883900.css.map",
-    "main.488a9ad2.js.map": "/static/js/main.488a9ad2.js.map",
+    "main.8ee33db1.css.map": "/static/css/main.8ee33db1.css.map",
+    "main.5fa42a77.js.map": "/static/js/main.5fa42a77.js.map",
     "787.55c86885.chunk.js.map": "/static/js/787.55c86885.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d883900.css",
-    "static/js/main.488a9ad2.js"
+    "static/css/main.8ee33db1.css",
+    "static/js/main.5fa42a77.js"
   ]
 }
