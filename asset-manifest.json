@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ee33db1.css",
-    "main.js": "/static/js/main.b6e0f05c.js",
+    "main.css": "/static/css/main.22a75f23.css",
+    "main.js": "/static/js/main.9ea02687.js",
     "static/js/787.55c86885.chunk.js": "/static/js/787.55c86885.chunk.js",
     "static/media/IN_DL_HumayunTomb.jpg": "/static/media/IN_DL_HumayunTomb.0744ff1230476a7ba0b1.jpg",
     "static/media/IN_KL_Wayanad_Lake.jpg": "/static/media/IN_KL_Wayanad_Lake.b81b1896857a09b0dd1d.jpg",
@@ -14,12 +14,12 @@
     "static/media/US_MA_Cambridge_CharlesRiver.jpeg": "/static/media/US_MA_Cambridge_CharlesRiver.7d86c3b608413cf51473.jpeg",
     "static/media/US_NY_NYC_TimesSquare.jpeg": "/static/media/US_NY_NYC_TimesSquare.7ce23966f8219569928e.jpeg",
     "static/media/AE_AbuDabhi_GrandMosque.jpg": "/static/media/AE_AbuDabhi_GrandMosque.d8c794f7e6f35be07b6a.jpg",
+    "static/media/UNISHPERE.png": "/static/media/UNISHPERE.2f3723aff278163f64e8.png",
     "static/media/IME.png": "/static/media/IME.db2184a4019e00a74349.png",
     "static/media/ASL.png": "/static/media/ASL.d34bc51872b12c762cc9.png",
     "static/media/Mrigank_Khandelwal.pdf": "/static/media/Mrigank_Khandelwal.37a1d53cec2f5a3901d9.pdf",
     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Mrigank_picture.jpeg": "/static/media/Mrigank_picture.b5bdca0ba3e7fe629cbe.jpeg",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/sabre-logo.png": "/static/media/sabre-logo.707cd2fdeab146f45af6.png",
@@ -27,12 +27,12 @@
     "static/media/neu-logo.png": "/static/media/neu-logo.1d9809a8d1c0af84961e.png",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.8ee33db1.css.map": "/static/css/main.8ee33db1.css.map",
-    "main.b6e0f05c.js.map": "/static/js/main.b6e0f05c.js.map",
+    "main.22a75f23.css.map": "/static/css/main.22a75f23.css.map",
+    "main.9ea02687.js.map": "/static/js/main.9ea02687.js.map",
     "787.55c86885.chunk.js.map": "/static/js/787.55c86885.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ee33db1.css",
-    "static/js/main.b6e0f05c.js"
+    "static/css/main.22a75f23.css",
+    "static/js/main.9ea02687.js"
   ]
 }
