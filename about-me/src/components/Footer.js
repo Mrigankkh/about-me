@@ -26,7 +26,7 @@ function Footer() {
               <a
                 href="https://github.com/Mrigankkh"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
@@ -36,17 +36,17 @@ function Footer() {
               <a
                 href="mailto:khandelwal.mr@northeastern.edu?"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
-                  <AiOutlineMail />
+                <AiOutlineMail />
               </a>
             </li>
             <li className="social-icons">
               <a
                 href="http://linkedin.com/in/mrigank-khandelwal/"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
@@ -56,7 +56,7 @@ function Footer() {
               <a
                 href="https://www.instagram.com/"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillInstagram />

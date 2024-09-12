@@ -5,7 +5,8 @@ import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
-import Resume from "./components/Resume/ResumeNew";
+import Resume from "./components/Resume/Resume";
+import AI from "./components/AI/AI";
 import Travel from "./components/Travel/Travel";  
 import {
   BrowserRouter as Router,
@@ -41,6 +42,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="/travel" element={<Travel />} />
+          <Route path="/ai" element={<AI />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />
@@ -50,5 +52,3 @@ function App() {
 }
 
 export default App;
-
-//npm run deploy

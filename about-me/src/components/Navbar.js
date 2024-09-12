@@ -3,6 +3,7 @@ import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
+
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
 import { ImBlog } from "react-icons/im";
@@ -11,12 +12,14 @@ import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
+  AiFillAndroid,
 } from "react-icons/ai";
+import { BsRobot } from "react-icons/bs";
 
-import { CgFileDocument, 
-CgAirplane
+import AIIcon from "../assets/Icons/ai.ico";
 
- } from "react-icons/cg";
+import { CgFileDocument, CgAirplane } from "react-icons/cg";
+import { IconBase } from "react-icons";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -102,27 +105,15 @@ function NavBar() {
                 <CgAirplane style={{ marginBottom: "2px" }} /> Travel
               </Nav.Link>
             </Nav.Item>
-
-            {/* <Nav.Item>
+            <Nav.Item>
               <Nav.Link
-                href="https://soumyajitblogs.vercel.app/"
-                target="_blank"
-                rel="noreferrer"
+                as={Link}
+                to="/ai"
+                onClick={() => updateExpanded(false)}
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Blogs
+                <BsRobot style={{ marginBottom: "2px" }} /> AI
               </Nav.Link>
-            </Nav.Item> */}
-
-            {/* <Nav.Item className="fork-btn">
-              <Button
-                href="https://github.com/soumyajit4419/Portfolio"
-                target="_blank"
-                className="fork-btn-inner"
-              >
-                <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
-                <AiFillStar style={{ fontSize: "1.1em" }} />
-              </Button>
-            </Nav.Item> */}
+            </Nav.Item>
           </Nav>
         </Navbar.Collapse>
       </Container>

@@ -257,7 +257,7 @@ button:focus {
 .home-section {
   position: relative;
   z-index: -1;
-  background-image: var(--image-gradient), url(./assets/home-bg.jpg);
+  background-image: var(--image-gradient), url(./assets/Home/home-bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
@@ -348,6 +348,12 @@ button:focus {
   display: inline-block !important;
   position: relative !important;
   padding-inline-start: 0 !important;
+}
+
+
+.home-journey-section {
+  padding-bottom: 70px !important;
+  padding-top: 70px !important;
 }
 
 .home-social-icons {
@@ -458,7 +464,13 @@ button:focus {
   padding-bottom: 30px !important;
   
 }
-
+.card-img-top
+{
+  max-height: 250px;
+  object-fit: contain;
+  height: auto;
+  max-width: 100%; 
+}
 .travel-map
 {
   padding-top: 50px !important;
@@ -491,7 +503,21 @@ button:focus {
   opacity: 0.9 !important;
   transition: all 0.5s ease 0s !important;
   height: 100% !important;
+  max-height: min-content;
 }
+
+
+
+.travel-card-view {
+  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+  color: white !important;
+  background-color: transparent !important;
+  opacity: 0.9 !important;
+  transition: all 0.5s ease 0s !important;
+  height: 100% !important;
+  width: 50%
+}
+
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
@@ -777,4 +803,12 @@ button:focus {
 }
 .fork-btn-inner::after {
   display: none !important;
+}
+
+
+.ai-section {
+  position: relative !important;
+  padding-top: 150px !important;
+  padding-bottom: 30px !important;
+  
 }
