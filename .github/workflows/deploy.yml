@@ -28,7 +28,7 @@ jobs:
 
       # Step 4: Build the site
       - name: Build site
-        run: npm run build  # Adjust based on your project's build command
+        run: cd about-me && npm run build  # Adjust based on your project's build command
 
       # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
