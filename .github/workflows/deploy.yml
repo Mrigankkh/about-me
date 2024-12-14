@@ -24,7 +24,7 @@ jobs:
 
       # Step 3: Install dependencies
       - name: Install dependencies
-        run: cd about0me && npm install
+        run: cd about-me && npm install
 
       # Step 4: Build the site
       - name: Build site
