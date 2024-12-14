@@ -350,7 +350,6 @@ button:focus {
   padding-inline-start: 0 !important;
 }
 
-
 .home-journey-section {
   padding-bottom: 70px !important;
   padding-top: 70px !important;
@@ -457,22 +456,18 @@ button:focus {
   background-image: var(--section-background-color) !important;
 }
 
-
 .travel-section {
   position: relative !important;
   padding-top: 150px !important;
   padding-bottom: 30px !important;
-  
 }
-.card-img-top
-{
+.card-img-top {
   max-height: 250px;
   object-fit: contain;
   height: auto;
-  max-width: 100%; 
+  max-width: 100%;
 }
-.travel-map
-{
+.travel-map {
   padding-top: 50px !important;
   padding-bottom: 50px !important;
   padding-left: 25px !important;
@@ -487,14 +482,12 @@ button:focus {
   height: auto !important;
 }
 
-
-.travel-map-map{
+.travel-map-map {
   /* box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important; */
   color: white !important;
   background-color: transparent !important;
   opacity: 0.9 !important;
   transition: all 0.5s ease 0s !important;
-
 }
 .project-card-view {
   box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
@@ -506,8 +499,6 @@ button:focus {
   max-height: min-content;
 }
 
-
-
 .travel-card-view {
   box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
   color: white !important;
@@ -515,7 +506,7 @@ button:focus {
   opacity: 0.9 !important;
   transition: all 0.5s ease 0s !important;
   height: 100% !important;
-  width: 50%
+  width: 50%;
 }
 
 .project-card-view:hover {
@@ -805,10 +796,117 @@ button:focus {
   display: none !important;
 }
 
-
 .ai-section {
   position: relative !important;
   padding-top: 150px !important;
   padding-bottom: 30px !important;
+}
+
+/* Chatbot Style */
+
+.react-chatbot-kit-chat-header {
+
+background-color: transparent;
+}
+.react-chatbot-kit-chat-container {
+
+  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+  color: white !important;
+  background-color: transparent !important;
+  opacity: 0.9 !important;
+  transition: all 0.5s ease 0s !important;
+  height: 100% !important;
+  width: 75%;
+  max-width: 1000px;
+  margin: auto;
+  border-radius: 10px !important;
+
+}
+.react-chatbot-kit-chat-inner-container {
+  background-color: transparent;
+  border-radius: 10px !important;
+
+
+}
+
+.react-chatbot-kit-chat-input-container {
+}
+
+.react-chatbot-kit-chat-message-container {
+}
+
+.react-chatbot-kit-chat-input {
+}
+
+.react-chatbot-kit-chat-input-form {
+}
+
+.react-chatbot-kit-chat-input::placeholder {
+}
+
+.react-chatbot-kit-chat-btn-send {
+
+}
+
+.react-chatbot-kit-chat-btn-send-icon {
+}
+
+.react-chatbot-kit-chat-bot-message-container {
+  width: auto;
+  max-width: min-content;
   
+}
+
+
+.react-chatbot-kit-chat-bot-avatar-container {
+  padding-right: 0%;
+}
+
+.react-chatbot-kit-chat-bot-avatar-icon {
+  
+}
+
+.react-chatbot-kit-chat-bot-avatar-letter {
+}
+
+.react-chatbot-kit-chat-bot-message {
+
+  border-radius: 10px;
+  background-color:rgba(119, 53, 136, 0.459) ;
+  
+
+}
+
+.react-chatbot-kit-chat-bot-message-arrow {
+
+  border-right: 8px solid rgba(119, 53, 136, 0.459);
+
+}
+
+
+.react-chatbot-kit-chat-bot-loading-icon-container {
+}
+
+.chatbot-loader-container {
+}
+
+#chatbot-loader #chatbot-loader-dot1 {
+}
+
+#chatbot-loader #chatbot-loader-dot2 {
+}
+
+#chatbot-loader #chatbot-loader-dot3 {
+}
+
+.react-chatbot-kit-error {
+}
+
+.react-chatbot-kit-error-container {
+}
+
+.react-chatbot-kit-error-header {
+}
+
+.react-chatbot-kit-error-docs {
 }
