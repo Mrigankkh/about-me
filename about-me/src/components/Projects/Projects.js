@@ -24,6 +24,7 @@ function Projects() {
                 title={project.title}
                 description={project.description}
                 ghLink={project.ghLink}
+                demoLink={project.demoLink || null}
               />
             </Col>
           ))}

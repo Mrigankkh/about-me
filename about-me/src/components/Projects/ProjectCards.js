@@ -8,6 +8,7 @@ function ProjectCards(props) {
   return (
     <Card className="project-card-view">
       <Card.Img
+        
         variant="top"
         src={props.imgPath}
         alt="card-img"

@@ -5,7 +5,7 @@ import * as am5map from "@amcharts/amcharts5/map";
 import am5geodata_worldLow from "@amcharts/amcharts5-geodata/worldLow";
 import { useEffect, useRef } from "react";
 import Particle from "../Particle";
-import countries from "../../constants/Countries";
+import countries from "../../constants/countries";
 import CountryCard from "./CountryCard";
 function Travel() {
   const chartDivRef = useRef(null);
