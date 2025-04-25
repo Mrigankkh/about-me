@@ -8,7 +8,7 @@ const experiences = [
     company_name: "Dell Technologies",
     icon: dell ,
     iconBg: "#383E56",
-    date: "July 2024 - Present",
+    date: "July 2024 - Dec 2024",
     points: [
       "I work on developing cross functional Generative AI solutions using Open Source GenAI frameworks and models.",
       

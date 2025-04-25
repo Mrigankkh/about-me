@@ -25,6 +25,7 @@ function Projects() {
                 description={project.description}
                 ghLink={project.ghLink}
                 demoLink={project.demoLink || null}
+                pypiLink={project.pypiLink || null}
               />
             </Col>
           ))}

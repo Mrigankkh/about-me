@@ -5,8 +5,19 @@ import READMEAI from "../assets/Projects/READMEAI.png";
 import CHASER from "../assets/Projects/CHASER.png";
 import MELOSOFIA from "../assets/Projects/MELOSOFIA.png";
 import CE from "../assets/Projects/codeEditor.png";
+import EQUITYIQ from "../assets/Projects/EQUITYIQ.png";
+import DARWARS from "../assets/Projects/DARWARS.png";
+import RECALL from "../assets/Projects/RECALL.png";
 const PROJECTS = [
-
+  {
+    imgPath: RECALL,
+    isBlog: false,
+    title: "Recall SDK",
+    description:
+      "Managing long-term memory in LLM applications can be challenging. Recall offers a lightweight, pluggable memory layer compatible with any OpenAI-style API, simplifying this process",
+    ghLink: "https://github.com/Mrigankkh/recall",
+    pypiLink: "https://pypi.org/project/recall-sdk/",
+  },
   {
     imgPath: READMEAI,
     isBlog: false,
@@ -36,6 +47,15 @@ const PROJECTS = [
    
   },
   {
+    imgPath: DARWARS,
+    isBlog: false,
+    title: "DarWars",
+    description:
+      "A 2D shooting game utilizing Genetic Algorithms for Enemy AIs built using Pygame",
+    ghLink: "https://github.com/Mrigankkh/darwars",
+    demoLink: "mrigankkh.github.io/DarWars/",
+  },
+  {
     imgPath: IME,
     isBlog: false,
     title: "IME: Image Manipulation and Enhancement",
@@ -58,6 +78,14 @@ const PROJECTS = [
     title: "ASL-2-Sentence",
     description:
       "This project aims to integrate Computer Vision and Natural Language Processing to classify images of ASL hand signs to their respective characters and to generate meaningful sentences from the keywords signed.",
+    ghLink: "https://github.com/Mrigankkh/ASL-2-Text",
+  },
+  {
+    imgPath: EQUITYIQ,
+    isBlog: false,
+    title: "Equity IQ",
+    description:
+      "An AI‑powered, multi‑agent financial analysis system that automates extraction, analysis, and summarization of complex financial documents by leveraging CrewAI for agent orchestration, Retrieval‑Augmented Generation (RAG) for grounded retrieval, and domain‑fine‑tuned language models.",
     ghLink: "https://github.com/Mrigankkh/ASL-2-Text",
   },
   {
