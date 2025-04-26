@@ -13,7 +13,11 @@ const AI = () => {
             <Container>
         
                 <Row style={{ margin: "auto", paddingBottom: "10px" }}>
-                <Chat/>
+                {/* <Chat/> */}
+                <h1 className="project-heading">
+
+                Coming Soon...
+                </h1>
                 </Row>
                 <Row>
                 <img src={AILoadingGIF} alt="GIF" />

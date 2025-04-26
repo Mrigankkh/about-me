@@ -805,6 +805,44 @@ button:focus {
   padding-bottom: 30px !important;
 }
 
+
+/*Blog Section*/
+.blog-card-view {
+  background-color: #1e1e1e;
+  color: #fff;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  transition: transform 0.2s;
+}
+
+.blog-card-view:hover {
+  transform: translateY(-4px);
+}
+
+.blog-card-view .card-img {
+  border-radius: 8px 8px 0 0;
+  object-fit: cover;
+}
+
+.blog-card-view .card-body {
+  padding: 16px;
+}
+
+.blog-card-view .card-title {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+.blog-card-view .card-text {
+  font-size: 0.9rem;
+}
+
+.blog-card-view .card-footer {
+  background-color: transparent;
+  border-top: none;
+  text-align: center;
+}
+
 /* Chatbot Style */
 
 .react-chatbot-kit-chat-header {

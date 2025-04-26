@@ -14,7 +14,7 @@ const PROJECTS = [
     isBlog: false,
     title: "Recall SDK",
     description:
-      "Managing long-term memory in LLM applications can be challenging. Recall offers a lightweight, pluggable memory layer compatible with any OpenAI-style API, simplifying this process",
+      "Recall offers a lightweight, pluggable memory layer on top of LLMs compatible with openAI APIs",
     ghLink: "https://github.com/Mrigankkh/recall",
     pypiLink: "https://pypi.org/project/recall-sdk/",
   },
@@ -42,7 +42,7 @@ const PROJECTS = [
     isBlog: false,
     title: "ChaseR",
     description:
-      "A Game Artificial Intelligence System ",
+      "A Game Artificial Intelligence System built using C++ and Unreal Engine 5.",
     ghLink: "https://github.com/Mrigankkh/ChaseR",
    
   },
