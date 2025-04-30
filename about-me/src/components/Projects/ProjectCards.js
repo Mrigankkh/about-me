@@ -38,7 +38,7 @@ function ProjectCards(props) {
             style={{ marginLeft: "10px" }}
           >
             <CgWebsite /> &nbsp;
-            {"Demo"}
+            {props.demoLabel}
           </Button>
         )}
                 {!props.isBlog && props.pypiLink && (
