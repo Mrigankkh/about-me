@@ -26,6 +26,7 @@ function Projects() {
                 ghLink={project.ghLink}
                 demoLink={project.demoLink || null}
                 pypiLink={project.pypiLink || null}
+                demoLabel={project.demoLabel || "Demo"}
               />
             </Col>
           ))}

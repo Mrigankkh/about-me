@@ -8,6 +8,7 @@ import CE from "../assets/Projects/codeEditor.png";
 import EQUITYIQ from "../assets/Projects/EQUITYIQ.png";
 import DARWARS from "../assets/Projects/DARWARS.png";
 import RECALL from "../assets/Projects/RECALL.png";
+import GFI from "../assets/Projects/GFI.png";
 const PROJECTS = [
   {
     imgPath: RECALL,
@@ -29,14 +30,16 @@ const PROJECTS = [
   },
 
   {
-    imgPath: MELOSOFIA,
+    imgPath: GFI,
     isBlog: false,
-    title: "Melosifia",
+    title: "Good First Issue",
     description:
-      "Melosofia is a web application built using React, Node,js, Express and Firebase that explores the intersection of music and philosophy, allowing users to share and discover interpretations of song lyrics.",
-    ghLink: "https://github.com/Mrigankkh/Melosofia",
-    demoLink: "https://melosofia.netlify.app/",
+      "Good First Issue is a web application built using React,Next.js, Node,js, GraphQL and Redis that scrapes the latest Good First issues on GitHub and displays them in a user-friendly interface. It allows users to filter issues by language, repository, and difficulty level, making it easier for beginners to find suitable issues to work on.",
+    ghLink: "https://github.com/Mrigankkh/good-first-issue",
+    demoLink: "https://good-first-issue-cepa.vercel.app/",
+    demoLabel: "Visit Site"
   },
+
   {
     imgPath: CHASER,
     isBlog: false,
@@ -53,7 +56,7 @@ const PROJECTS = [
     description:
       "A 2D shooting game utilizing Genetic Algorithms for Enemy AIs built using Pygame",
     ghLink: "https://github.com/Mrigankkh/darwars",
-    demoLink: "mrigankkh.github.io/DarWars/",
+    demoLink: "https://mrigankkh.github.io/DarWars/",
   },
   {
     imgPath: IME,
@@ -87,6 +90,15 @@ const PROJECTS = [
     description:
       "An AI‑powered, multi‑agent financial analysis system that automates extraction, analysis, and summarization of complex financial documents by leveraging CrewAI for agent orchestration, Retrieval‑Augmented Generation (RAG) for grounded retrieval, and domain‑fine‑tuned language models.",
     ghLink: "https://github.com/Mrigankkh/ASL-2-Text",
+  },
+  {
+    imgPath: MELOSOFIA,
+    isBlog: false,
+    title: "Melosifia",
+    description:
+      "Melosofia is a web application built using React, Node,js, Express and Firebase that explores the intersection of music and philosophy, allowing users to share and discover interpretations of song lyrics.",
+    ghLink: "https://github.com/Mrigankkh/Melosofia",
+    demoLink: "https://melosofia.netlify.app/",
   },
   {
     imgPath: CE,
