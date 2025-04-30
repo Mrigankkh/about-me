@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6a9ce0dd.css",
-    "main.js": "/static/js/main.08a069e9.js",
+    "main.js": "/static/js/main.496427d0.js",
     "static/js/787.55c86885.chunk.js": "/static/js/787.55c86885.chunk.js",
     "static/media/IN_DL_HumayunTomb.jpg": "/static/media/IN_DL_HumayunTomb.0744ff1230476a7ba0b1.jpg",
     "static/media/IN_KL_Wayanad_Lake.jpg": "/static/media/IN_KL_Wayanad_Lake.b81b1896857a09b0dd1d.jpg",
@@ -22,6 +22,7 @@
     "static/media/Mrigank_Khandelwal.pdf": "/static/media/Mrigank_Khandelwal.37a1d53cec2f5a3901d9.pdf",
     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/EQUITYIQ.png": "/static/media/EQUITYIQ.8f28814ba9aee72a9d72.png",
+    "static/media/GFI.png": "/static/media/GFI.86db1777cc58774e528c.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/RECALL.png": "/static/media/RECALL.2f81b09c4a9ebbc8a3aa.png",
     "static/media/DARWARS.png": "/static/media/DARWARS.7cfd866dd3ce9638ee5c.png",
@@ -34,11 +35,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.6a9ce0dd.css.map": "/static/css/main.6a9ce0dd.css.map",
-    "main.08a069e9.js.map": "/static/js/main.08a069e9.js.map",
+    "main.496427d0.js.map": "/static/js/main.496427d0.js.map",
     "787.55c86885.chunk.js.map": "/static/js/787.55c86885.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a9ce0dd.css",
-    "static/js/main.08a069e9.js"
+    "static/js/main.496427d0.js"
   ]
 }
