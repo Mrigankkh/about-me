@@ -34,7 +34,7 @@ const PROJECTS = [
     isBlog: false,
     title: "Good First Issue",
     description:
-      "Good First Issue is a web application built using React,Next.js, Node,js, GraphQL and Redis that scrapes the latest Good First issues on GitHub and displays them in a user-friendly interface. It allows users to filter issues by language, repository, and difficulty level, making it easier for beginners to find suitable issues to work on.",
+      "Good First Issue is a web application built using React,Next.js, Node,js, GraphQL and Redis that scrapes the latest Good First issues on GitHub and displays them in a user-friendly interface.",
     ghLink: "https://github.com/Mrigankkh/good-first-issue",
     demoLink: "https://good-first-issue-cepa.vercel.app/",
     demoLabel: "Visit Site"
