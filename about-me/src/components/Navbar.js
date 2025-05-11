@@ -6,7 +6,7 @@ import Button from "react-bootstrap/Button";
 
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
-import { ImBlog } from "react-icons/im";
+import { ImBlog, ImGithub } from "react-icons/im";
 import {
   AiFillStar,
   AiOutlineHome,
@@ -41,8 +41,10 @@ function NavBar() {
       fixed="top"
       expand="md"
       className={navColour ? "sticky" : "navbar"}
+      
     >
-      <Container>
+      <Container
+      >
         <Navbar.Brand href="/" className="d-flex">
           Mrigank Khandelwal
         </Navbar.Brand>
@@ -89,13 +91,19 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
+                to="/os"
+                onClick={() => updateExpanded(false)}
+              >
+                <ImGithub style={{ marginBottom: "2px" }} /> Open Source
+              </Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
                 to="/blog"
                 onClick={() => updateExpanded(false)}
               >
-                <ImBlog
-                  style={{ marginBottom: "2px" }}
-                />{" "}
-                Blog
+                <ImBlog style={{ marginBottom: "2px" }} /> Blog
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
@@ -116,7 +124,7 @@ function NavBar() {
                 <CgAirplane style={{ marginBottom: "2px" }} /> Travel
               </Nav.Link>
             </Nav.Item>
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                 as={Link}
                 to="/ai"
@@ -124,7 +132,7 @@ function NavBar() {
               >
                 <BsRobot style={{ marginBottom: "2px" }} /> AI
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
           </Nav>
         </Navbar.Collapse>
       </Container>

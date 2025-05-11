@@ -45,6 +45,7 @@ function App() {
           <Route path="/resume" element={<Resume />} />
           <Route path="/travel" element={<Travel />} />
           <Route path="/ai" element={<AI />} />
+          <Route path="/os" element={<AI />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />
