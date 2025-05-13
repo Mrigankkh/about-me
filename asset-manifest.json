@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6a9ce0dd.css",
-    "main.js": "/static/js/main.cf11ec7e.js",
+    "main.js": "/static/js/main.8fd6ce26.js",
     "static/js/787.55c86885.chunk.js": "/static/js/787.55c86885.chunk.js",
     "static/media/IN_DL_HumayunTomb.jpg": "/static/media/IN_DL_HumayunTomb.0744ff1230476a7ba0b1.jpg",
     "static/media/IN_KL_Wayanad_Lake.jpg": "/static/media/IN_KL_Wayanad_Lake.b81b1896857a09b0dd1d.jpg",
@@ -13,6 +13,7 @@
     "static/media/NP_MTEVEREST.jpeg": "/static/media/NP_MTEVEREST.29d9702fe340bef49bc6.jpeg",
     "static/media/Mrigank_picture_AM.jpeg": "/static/media/Mrigank_picture_AM.e70b63cd617246d2510b.jpeg",
     "static/media/AE_Dubai_Dunes.jpg": "/static/media/AE_Dubai_Dunes.9f3309b0ea93702397ac.jpg",
+    "static/media/READMEAI_BLOG.png": "/static/media/READMEAI_BLOG.3f49c123bd73b1368ce2.png",
     "static/media/US_MA_Cambridge_CharlesRiver.jpeg": "/static/media/US_MA_Cambridge_CharlesRiver.7d86c3b608413cf51473.jpeg",
     "static/media/US_NY_NYC_TimesSquare.jpeg": "/static/media/US_NY_NYC_TimesSquare.7ce23966f8219569928e.jpeg",
     "static/media/AE_AbuDabhi_GrandMosque.jpg": "/static/media/AE_AbuDabhi_GrandMosque.d8c794f7e6f35be07b6a.jpg",
@@ -38,11 +39,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.6a9ce0dd.css.map": "/static/css/main.6a9ce0dd.css.map",
-    "main.cf11ec7e.js.map": "/static/js/main.cf11ec7e.js.map",
+    "main.8fd6ce26.js.map": "/static/js/main.8fd6ce26.js.map",
     "787.55c86885.chunk.js.map": "/static/js/787.55c86885.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a9ce0dd.css",
-    "static/js/main.cf11ec7e.js"
+    "static/js/main.8fd6ce26.js"
   ]
 }
