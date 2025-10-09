@@ -13,9 +13,7 @@ function About() {
               ABOUT <span className="purple"> ME </span>
             </h1>
             <p className="home-about-body">
-              I am a Computer Science graduate student at Northeastern
-              University. I am currently working at Dell Technologies as an{" "}
-              <b className="purple">AI Software Engineer Co-op</b>.
+              I am a <b className="purple">Software Engineer </b>at Dell's AI Research team. 
               <br />
               <br /> I am a full-stack developer. I find{" "}
               <b className="purple">Generative AI</b> really intriguing and I

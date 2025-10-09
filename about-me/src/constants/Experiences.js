@@ -3,6 +3,16 @@ import dell from "../assets/Home/Journey/dell-logo.jpeg"
 import neu from "../assets/Home/Journey/neu-logo.png"
 import msrit from "../assets/Home/Journey/msrit-logo.jpeg"
 const experiences = [
+   {
+    title: "Software Engineer 2",
+    company_name: "Dell Technologies",
+    icon: dell ,
+    iconBg: "#383E56",
+    date: "July 2025 - Present",
+    points: [
+      "I work at Dell's AI Research team on researching and developing cross functional Generative AI solutions using Open Source GenAI frameworks and models.", 
+    ],
+  },
   {
     title: "AI Software Engineer Co-op",
     company_name: "Dell Technologies",
